@@ -18,7 +18,7 @@ Usage:
 
 - Running the Project:
      - Start Jupyter Notebook.
-     - Open the notebook file .ipynb.
+     - Open the notebook file titanic_passenger_analysis.ipynb.
      - Run the cells sequentially to proceed through the data analysis, preprocessing, model implementation, and evaluation.
 
 - Project Structure:
