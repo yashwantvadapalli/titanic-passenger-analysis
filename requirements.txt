@@ -1,0 +1,17 @@
+Packages installed (use the command below to install the following packages):
+
+!pip install pandas scikit-learn matplotlib seaborn
+
+
+Libraries used:
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+
+
+
+
